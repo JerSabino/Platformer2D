@@ -1,0 +1,20 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Development/RootMovement/Module.RootMovement.cpp.o",
+		"../../../arm64/UnrealGame/Development/RootMovement/RootMovementLibrary.cpp.o",
+		"../../../arm64/UnrealGame/Development/RootMovement/RootMovement.cpp.o",
+		"../../../arm64/UnrealGame/Development/RootMovement/AsyncRootMovement.cpp.o",
+		"../../../arm64/UnrealGame/Development/RootMovement/Module.RootMovement.cpp.o",
+		"../../../arm64/UnrealGame/Development/RootMovement/RootMovementLibrary.cpp.o",
+		"../../../arm64/UnrealGame/Development/RootMovement/RootMovement.cpp.o",
+		"../../../arm64/UnrealGame/Development/RootMovement/AsyncRootMovement.cpp.o",
+		"../../../x64/UnrealGame/Development/RootMovement/Module.RootMovement.cpp.o",
+		"../../../x64/UnrealGame/Development/RootMovement/RootMovementLibrary.cpp.o",
+		"../../../x64/UnrealGame/Development/RootMovement/RootMovement.cpp.o",
+		"../../../x64/UnrealGame/Development/RootMovement/AsyncRootMovement.cpp.o",
+		"../../../x64/UnrealGame/Development/RootMovement/Module.RootMovement.cpp.o",
+		"../../../x64/UnrealGame/Development/RootMovement/RootMovementLibrary.cpp.o",
+		"../../../x64/UnrealGame/Development/RootMovement/RootMovement.cpp.o",
+		"../../../x64/UnrealGame/Development/RootMovement/AsyncRootMovement.cpp.o"
+	]
+}
